@@ -2,4 +2,4 @@ This is Etch-Sketch drawing game "Murabac edition", this project will allow the 
 
 Creator of this project: Abdirahman Mohamed "Mur7bac". #100DaysOfCode #odinPorject #StariveForGreatness
 
-Stage Development.
+Stage Production.
